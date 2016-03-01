@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">"Hello World"</string>
+    <string name="button">"Say Hi"</string>
+    <string name="title_activity_2">Activity2</string>
+    <string name="button2">Go to activity 2</string>
+    <string name="button3">On/Off</string>
+    <string name="button4">Change background color</string>
+</resources>
